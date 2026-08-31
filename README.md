@@ -1,6 +1,6 @@
-# Market Share Analysis — Mercado de Bioestimulantes en Chile
+# Market Share Analysis - Mercado de Bioestimulantes en Chile
 
-Modelo de participación de mercado (MCI — Multiplicative Competitive Interaction, log-lineal)
+Modelo de participación de mercado (MCI - Multiplicative Competitive Interaction, log-lineal)
 aplicado al mercado chileno de bioestimulantes agrícolas: ~200 productos, 23 empresas, 5 categorías.
 
 > Proyecto derivado de mi tesis del Magíster en Administración de Empresas Agroalimentarias
@@ -27,7 +27,7 @@ el **precio** o el **prestigio de marca**? ¿Varía esto entre categorías de pr
 3. **Modelo MCI log-lineal**: estimado originalmente en Excel (LINEST); en este repo se
    migra a Python (statsmodels) para reproducibilidad.
 4. **Enfoques alternativos evaluados**: equilibrio de Nash, Monte Carlo, minimización de
-   SSE vía Solver — documentados como comparación metodológica.
+   SSE vía Solver - documentados como comparación metodológica.
 5. **Diagnóstico del modelo**: R², VIF, MAPE, significancia F.
 
 ## Estructura del repositorio
@@ -51,7 +51,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-*(Instrucciones de ejecución de notebooks/scripts — completar cuando el código esté migrado)*
+*(Instrucciones de ejecución de notebooks/scripts - completar cuando el código esté migrado)*
 
 ## Limitaciones y próximos pasos
 
@@ -63,4 +63,4 @@ pip install -r requirements.txt
 
 ## Autor
 
-Felipe — Magíster en Administración de Empresas Agroalimentarias, PUC Chile.
+Felipe - Magíster en Administración de Empresas Agroalimentarias, PUC Chile.
