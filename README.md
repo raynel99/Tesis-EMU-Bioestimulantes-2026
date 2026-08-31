@@ -56,6 +56,10 @@ pip install -r requirements.txt
 ## Limitaciones y próximos pasos
 
 - *(Completar: tamaño de muestra por categoría, supuestos del modelo, generalización a otros mercados)*
+- Crear las siguientes subtareas ademas de añadir una visualizacion de los datos que estamos trabajando
+  - Primero es crear el programa de python para estructurar mejor los datos
+- Incorporar una forma de modificar los datos de forma sencilla para poder generar modificaciones personalizadas
+- Concluir con una presentacion completa a nivel marketing
 
 ## Autor
 
